@@ -169,3 +169,191 @@ h1, h2, h3 {
     border-color: #84CC16;
     color: #36454F;
 }
+
+/* ========================
+   about Section */
+
+   #about {
+    padding: 60px 20px;
+    background-color: #F5F5F0;
+    color: #36454F;
+}
+
+#about h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #36454F;
+    margin-bottom: 1.5rem;
+    letter-spacing: 2px;
+}
+
+#about p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #36454F;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* ========================
+   about buttons*/
+
+.btn-primary {
+    background-color: #36454F;
+    border-color: #36454F;
+    color: #F5F5F0;
+    padding: 12px 40px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 0;
+
+}
+
+.btn-primary:hover {
+    background-color: #84CC16;
+    border-color: #84CC16;
+    color: #36454F;
+}
+
+/* ========================
+   skills Section*/
+#skills {
+    padding: 60px 20px;
+    background-color: #F5F5F0;
+    color: #36454F;
+}
+
+#skills h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #36454F;
+    margin-bottom: 1.5rem;
+    letter-spacing: 2px;
+} 
+
+#skills p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #36454F;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* ========================
+   skills buttons*/
+
+   .btn-secondary {
+    background-color: #36454F;
+    border-color: #36454F;
+    color: #84CC16;
+    padding: 12px 40px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 0;
+
+}
+
+.btn-secondary:hover {
+    background-color: #84CC16;
+    border-color: #84CC16;
+    color: #36454F;
+}
+
+/* ========================
+   projects Section*/
+
+#projects {
+    padding: 60px 20px;
+    background-color: #F5F5F0;
+    color: #36454F;
+}
+
+#projects h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #36454F;
+    margin-bottom: 1.5rem;
+    letter-spacing: 2px;
+} 
+
+#projects p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #36454F;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+} 
+
+/* ========================
+   projects buttons*/
+
+   .btn-success {
+    background-color: #36454F;
+    border-color: #36454F;
+    color: #84CC16;
+    padding: 12px 40px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 0;
+
+} 
+
+.btn-success:hover {
+    background-color: #84CC16;
+    border-color: #84CC16;
+    color: #36454F;
+}
+
+/* ========================
+   Contact Section*/
+
+#contact {
+    padding: 60px 20px;
+    background-color: #F5F5F0;
+    color: #36454F;
+}
+
+#contact h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #36454F;
+    margin-bottom: 1.5rem;
+    letter-spacing: 2px;
+}
+
+#contact p {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #36454F;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* ========================
+   Contact buttons*/
+
+   .btn-info {
+    background-color: #36454F;
+    border-color: #36454F;
+    color: #84CC16;
+    padding: 12px 40px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border-radius: 0;
+
+} 
+
+.btn-info:hover {
+    background-color: #84CC16;
+    border-color: #84CC16;
+    color: #36454F;
+}
+
